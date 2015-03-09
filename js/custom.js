@@ -57,8 +57,8 @@ $('#filters a').click(function(){
 /* Image block effects */
 
 $(function() {
-      $('ul.hover-block li').hover(function(){
-        $(this).find('.hover-content').animate({top:'-3px'},{queue:false,duration:500});
+      $('.hover-block div').hover(function(){
+        $(this).find('.hover-content').animate({top:'-5px'},{queue:false,duration:500});
       }, function(){
         $(this).find('.hover-content').animate({top:'125px'},{queue:false,duration:500});
       });

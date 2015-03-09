@@ -1457,7 +1457,7 @@ left: 5px !important;
 
 /* Image blocks */
 
-ul.hover-block li{
+.hover-block div {
 	list-style:none;
 	float:left;
 	width:222px; 
@@ -1466,7 +1466,7 @@ ul.hover-block li{
 	margin: 5px 4px;
 }
 
-ul.hover-block li a {
+.hover-block div a {
 	display: block;
 	position: relative;
 	overflow: hidden;
@@ -1475,11 +1475,11 @@ ul.hover-block li a {
 	color: #000;
 }
 
-ul.hover-block li a { 
+.hover-block div a { 
 	text-decoration: none; 
 }
 
-ul.hover-block li .hover-content{
+.hover-block div .hover-content {
 	position: absolute;
 	z-index: 1000;
 	height: 170px;
@@ -1489,11 +1489,11 @@ ul.hover-block li .hover-content{
 	cursor: pointer;
 }
 
-ul.hover-block li .hover-content h6{
+.hover-block div .hover-content h6 {
 	color: #fff;
 }
 
-ul.hover-block li img {
+.hover-block div img {
 	position: absolute;
 	top: 0;
 	left: 0;
