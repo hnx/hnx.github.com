@@ -1423,7 +1423,7 @@ left: 5px !important;
 }
 
 .flex-caption{
-	margin: 60px 0px 40px 0px;
+	margin: 40px 0px;
 }
 
 .flex-caption h2, .flex-caption h5, .flex-caption h6{
@@ -1460,7 +1460,7 @@ left: 5px !important;
 .hover-block div {
 	list-style:none;
 	float:left;
-	width:222px; 
+	width: 222px; 
 	height: 170px;
 	position: relative;
 	margin: 5px 4px;
@@ -1892,7 +1892,7 @@ margin:0px;
 
 .social-links{
 	margin-top: 20px;
-	padding:20px 0px 10px 0px;
+	padding: 10px 0;
 	color: #fff;
 	line-height: 30px;
 }
