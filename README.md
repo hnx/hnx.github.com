@@ -1,5 +1,4 @@
-Helix Nebula Marketplace (HNX)
+Helix Nebula Marketplace (HNX) - CLOSED
 ----------
 
-Please see the HNX main web page at
-[http://hnx.helix-nebula.eu/](http://hnx.helix-nebula.eu/).
+This sub-project is not active anymore.  For details on Helix Nebula, please visit the main [website](http://helix-nebula.eu/).
